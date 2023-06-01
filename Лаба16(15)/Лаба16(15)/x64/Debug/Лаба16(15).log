@@ -1,0 +1,3 @@
+﻿  z1.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1092,5): error MSB6006: "link.exe" завершилась с кодом 1168.
+LINK : fatal error LNK1168: не удается открыть C:\LABS\ОАП\Лаба16(15)\x64\Debug\Лаба16(15).exe для записи
